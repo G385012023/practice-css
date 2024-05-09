@@ -16,7 +16,7 @@ h2 {
 }
 
 div#zentai {
-	display:"inline";
+	display:"grid-template-columns";
 	flex-direction: row;
 	width: 1024px;
 }
